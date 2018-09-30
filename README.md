@@ -1,7 +1,7 @@
 # marsrovertechchallenge
 https://code.google.com/archive/p/marsrovertechchallenge/
 
-to run the program, install python, clone the repository, navigate to the folder and execute the python file:
+to run the program, install python, clone the repository, open a command prompt, navigate to the folder and execute the python file:
 py marsrovertechchallenge.py
 
 Assumptions:
