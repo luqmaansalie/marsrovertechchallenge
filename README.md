@@ -5,6 +5,4 @@ to run the program, install python, clone the repository, navigate to the folder
 py marsrovertechchallenge.py
 
 Assumptions:
-The plateau is a sphere
-Rovers cannot be placed where a rover currently is
-Rovers cannot move into one another
+The plateau is a sphere, rovers cannot be placed where a rover currently is, and rovers cannot move into one another
